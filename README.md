@@ -10,9 +10,7 @@ In VSCODE per evitare di sovrascrivere il software comune gia funzionante è meg
 cambiare il branch principale (origin/main) con il proprio. Sarà sufficente cliccare
 in baso a sinistra e selezionare il proprio branch.  
 
-<img src="images/Cambio_Branch.png" alt="Cambio_Branch" style="display: block;width:200px;
-    margin-left: auto;
-    margin-right: auto;"/>  
+<img src="images/Cambio_Branch.png" alt="Cambio_Branch" style="display:block;width:200px;margin-left:auto;margin-right:auto;"/>  
 
 ## Aggiornare il repository
 Per aggiornare i dati sul proprio repository, lanciare i seguenti comandi sul terminale:
