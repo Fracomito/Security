@@ -7,7 +7,7 @@
             "request": "launch",
             "cwd": "${workspaceFolder}\\",
             "args": ["Ciao"],
-            "program": "C:\\Users\\fraco\\OneDrive\\Documenti\\PROJECT\\Security\\Excercise_1.c",
+            "program": "${workspaceFolder}\\Excercise_1.c",
             "stopAtEntry": true
         },
         {
