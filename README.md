@@ -19,4 +19,6 @@ Per aggiornare i dati sul proprio repository, lanciare i seguenti comandi sul te
 pacchetto da aggiornare.
 3. **git push** per caricare il tutto sul repository.
 
-
+git checkout 
+git fetch origin
+git merge origin/main
