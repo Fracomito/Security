@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "gdb launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "cwd": "${workspaceFolder}\\",
+            "args": ["Ciao"],
+            "program": "C:\\Users\\fraco\\OneDrive\\Documenti\\PROJECT\\Security\\Excercise_1.c",
+            "stopAtEntry": true
+        },
+        {
+            "name": "Hello",
+            "type": "cppdbg",
+            "request": "launch",
+            "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+            "cwd": "${workspaceFolder}\\",
+            "program": "${workspaceFolder}\\helloword.cpp",
+            "stopAtEntry": true
+        }
+    ]
+}
